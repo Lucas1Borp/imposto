@@ -1,4 +1,4 @@
-package imposto;
+package entities;
 
 public abstract class Contribuinte {
 	
